@@ -3,7 +3,7 @@
 
 # TITLE: TEXT SIMILARITY SEARCH SYSTEM USING NATURAL LANGUAGE PROCESSING
 
-# Contributor - SaiKartheek Goli - A20546631
+# Author - SaiKartheek Goli - A20546631
 
 ## Operation:
 
